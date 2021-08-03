@@ -1,0 +1,69 @@
+
+
+
+
+.formulario{
+
+ 
+  
+   display: flex;
+   justify-content: flex-end;
+
+
+}
+
+
+
+    .mainobras{
+
+        background-image: url(fondot.jpg);
+        background-size: 100% 1100px;
+        background-repeat: no-repeat;
+        
+
+
+
+
+    }
+
+    .cuerpoobras{
+
+
+    background-image: url(obras.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    
+    
+    
+
+    }
+
+
+    .logos{
+
+
+        display: flex;
+    }
+
+    
+#footer{
+
+color: white;
+padding: 80px;
+        height: 250px;
+        width: 100%;
+        background-color: rgba(56,56,56,255);
+        display: flex;
+        justify-content: space-around;
+    }
+
+
+
+
+
+
+  

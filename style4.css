@@ -1,0 +1,28 @@
+.registro{
+
+
+
+display: flex;
+justify-content: center;
+background-image: url(header.jpg);
+background-repeat:repeat-x;
+background-size: 750px;
+
+
+
+
+
+
+}
+
+
+.input{
+
+
+
+width: 500px;
+
+
+
+
+}
